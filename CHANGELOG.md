@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/wakamsha/tsconfig-i/compare/v1.0.0...v1.1.0) (2024-05-13)
+
+
+### Features
+
+* Specify lib ([#5](https://github.com/wakamsha/tsconfig-i/issues/5)) ([b7fe38a](https://github.com/wakamsha/tsconfig-i/commit/b7fe38a899aea64755821550aee1de7d348f6f8c))
+
 # 1.0.0 (2024-05-13)
 
 
